@@ -1,0 +1,3 @@
+﻿  powerset.cpp
+C:\Users\Axeltron\source\repos\powerset\powerset\powerset.cpp(12,27): warning C4018: '<': signed/unsigned mismatch
+  powerset.vcxproj -> C:\Users\Axeltron\source\repos\powerset\Debug\powerset.exe
